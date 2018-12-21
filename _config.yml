@@ -2,8 +2,8 @@
 title:               IEEE 802.15.4 & 6LoWPAN in Linux
 tagline:             'Linux-Wpan'
 description:         ''
-url:                 http://linux-wpan.org/website-test.github.io/index.html
-baseurl:             'http://linux-wpan.org/website-test.github.io'
+url:                 http://linux-wpan.org/index.html
+baseurl:             'http://linux-wpan.org/'
 paginate:            9
 
 # About/contact
