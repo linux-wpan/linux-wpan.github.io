@@ -1,1 +1,16 @@
-theme: jekyll-theme-tactile
+# Setup
+title:               IEEE 802.15.4 & 6LoWPAN in Linux
+tagline:             'Linux-Wpan'
+description:         ''
+url:                 http://linux-wpan.org/website-test.github.io/index.html
+baseurl:             'http://linux-wpan.org/website-test.github.io'
+paginate:            9
+
+# About/contact
+author:
+  name:              Stefan Schmidt
+  url:               ''
+  email:             stefan@datenfreihafen.org
+
+# Custom vars
+version:             0.9
