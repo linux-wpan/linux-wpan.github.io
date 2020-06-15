@@ -4,8 +4,8 @@ title: Wpan-tools
 ---
 
 The configuration interface for the ieee802154 subsystem is exposed over
-the nl802154 netlink inteface. It allows to configure various phy and MAC
-layer parameters and properties. For a covienient usage we offer a set of
+the nl802154 netlink interface. It allows to configure various phy and MAC
+layer parameters and properties. For a convenient usage we offer a set of
 small command line utilities that allow these configurations, wpan-tools.
 
 The tools are written in plain C and only minimal dependencies are needed

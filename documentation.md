@@ -99,7 +99,7 @@ Finally create a monitor interface:
 iwpan phy phy0 interface add monitor%d type monitor
 ```
 
-Then bring this interface up and run wireshark, tcpdump, etc… on it. Running a wireshark as sniffing frontend on the $HOST and connect to a $TARGET like Raspberry Pi which have some ethernet ssh connection, you can try:
+Then bring this interface up and run wireshark, tcpdump, etc… on it. Running a wireshark as sniffing frontend on the $HOST and connect to a $TARGET like Raspberry Pi which have some Ethernet ssh connection, you can try:
 
 ```
 ssh root@$TARGET 'tshark -i monitor0 -w -' | wireshark -k -i -

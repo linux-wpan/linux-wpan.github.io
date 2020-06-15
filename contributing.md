@@ -8,7 +8,7 @@ title: Contributing
 For kernel contributions to the ieee802514 and 6lowpan subsystems we follow the
 usual kernel development approach. In a nutshell you would write a patch, send
 it to the development mailing list via git send-email, wait for review and
-feedback, re-spin if necesassary and wait for the patch to be applied to one of
+feedback, re-spin if necessary and wait for the patch to be applied to one of
 our git trees.
 
 We run two different git trees. One for bugfixes which should go directly into
