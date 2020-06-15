@@ -11,7 +11,7 @@ All community communications on this project are happening on the project
 mailing list or its IRC channel. Don't be shy and get in contact if you have
 questions or contributions you want to make.
 
-Mailinglist: [linux-wpan@vger.kernel.org](mailto:linux-wpan@vger.kernel.org), [Archive](http://www.spinics.net/lists/linux-wpan)
+Mailinglist: [linux-wpan@vger.kernel.org](mailto:linux-wpan@vger.kernel.org), [Archive](https://lore.kernel.org/linux-wpan/)
 
 IRC: #linux-wpan on irc.freenode.net
 
