@@ -13,7 +13,7 @@ questions or contributions you want to make.
 
 Mailinglist: [linux-wpan@vger.kernel.org](mailto:linux-wpan@vger.kernel.org), [Archive](https://lore.kernel.org/linux-wpan/)
 
-IRC: #linux-wpan on irc.freenode.net
+IRC: #linux-wpan on irc.libera.chat
 
 ## Content
 This small website features a list of [hardware](hardware) we support, a
